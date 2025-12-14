@@ -19,3 +19,13 @@
 * applying all files in folder
 
   `k apply -f ./`
+
+* adding default namespace
+
+  `k config set-context --current --namespace=dev`
+
+* get all
+
+  `k get all`
+
+  
