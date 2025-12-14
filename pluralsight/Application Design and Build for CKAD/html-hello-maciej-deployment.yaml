@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: html-hello-maciej-deployment
+  name: html-hello-maciej-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: html-hello-maciej-deployment
+  strategy: {}
+  template:
+    metadata:
+      labels:
+        app: html-hello-maciej-deployment
+    spec:
+      containers:
+      - image: maciejlisck/html-hello-maciej:1.0.0
+        name: html-hello-maciej
+        ports:
+        - containerPort: 80
+        resources: {}
+        volumeMounts:
+        - mountPath: /usr/share/nginx/html
+          name: storage
+      volumes:
+      - name: storage
+        persistentVolumeClaim:
+          claimName: html-hello-maciej-pvc
+status: {}
