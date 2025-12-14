@@ -5,3 +5,13 @@
 ### Courses
 * [Application Design and Build for CKAD](https://app.pluralsight.com/library/courses/application-design-build-ckad-cert/table-of-contents)
 * [Certified Kubernetes Application Developer Application Deployment](https://app.pluralsight.com/library/courses/ckad-deploying-applications-cert/table-of-contents)
+
+
+# My notes
+* use expose
+
+  `k expose deploy nginx-deploy --port=9000 --target-port=80 --type=NodePort --name=nginx-svc --dry-run=client -o yaml > svc.yaml`
+
+* use edit - saving edit automatically applies
+
+  ` k edit deploy/nginx-deploy`
