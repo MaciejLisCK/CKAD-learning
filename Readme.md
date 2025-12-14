@@ -28,4 +28,6 @@
 
   `k get all`
 
-  
+* setting some value
+
+  `k set selector svc public-service "role=green"`
