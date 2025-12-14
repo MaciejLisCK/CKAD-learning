@@ -15,3 +15,7 @@
 * use edit - saving edit automatically applies
 
   ` k edit deploy/nginx-deploy`
+
+* applying all files in folder
+
+  `k apply -f ./`
