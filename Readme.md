@@ -31,3 +31,30 @@
 * setting some value
 
   `k set selector svc public-service "role=green"`
+
+* edit in nano
+
+  `KUBE_EDITOR="nano" k edit deploy web-app`
+
+* change image in deployment
+
+  `k set image deploy web-app nginx=nginx:1.23.1-alpine`
+
+* adding annotation
+
+  `k annotate deploy web-app kubernetes.io/change-cause="Changed to nginx: 1.23.1" --overwrite=true`
+
+* rollout status
+
+  `k rollout status deploy web-app`
+
+* rollout history
+
+  `k rollout history deploy biz-app`
+
+* rollout undo
+
+  `k rollout undo deploy biz-app`
+
+
+  
