@@ -58,5 +58,7 @@ https://github.com/Aryan4266/k8squest
 
   `k rollout undo deploy biz-app`
 
+* automatic scaling
 
+  `kubectl autoscale deployment <name> --min=2 --max=10 --cpu-percent=70`
   
