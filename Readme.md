@@ -61,4 +61,10 @@ https://github.com/Aryan4266/k8squest
 * automatic scaling
 
   `kubectl autoscale deployment <name> --min=2 --max=10 --cpu-percent=70`
+
+* get api versions
+
+  `kubectl api-resources`
+
+  
   
