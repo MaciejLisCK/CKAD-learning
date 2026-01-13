@@ -40,7 +40,7 @@ https://github.com/Aryan4266/k8squest
 
 * change image in deployment
 
-  `k set image deploy web-app nginx=nginx:1.23.1-alpine`
+  `k set image deployment web-app nginx=nginx:1.23.1-alpine`
 
 * adding annotation
 
