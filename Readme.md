@@ -9,6 +9,9 @@
 ## Kubernetes game
 https://github.com/Aryan4266/k8squest
 
+## Exam braindump
+* https://youtu.be/SFXdXwTvruc?si=d3JKNP50Hh-n1Qq
+
 # My notes
 * use expose
 
