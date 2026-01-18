@@ -72,4 +72,8 @@ https://github.com/Aryan4266/k8squest
 * get metrics
 
   `kubectl top --raw /api/v1/nodes/<NODE_NAME>/proxy/metrics/resource > nodemetrics.txt`
+
+* check rbac perrmission
+
+  `k auth can-i list pods --as=system:serviceaccount:k8squest:pod-reader`
   
