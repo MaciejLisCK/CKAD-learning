@@ -76,4 +76,8 @@ https://github.com/Aryan4266/k8squest
 * check rbac perrmission
 
   `k auth can-i list pods --as=system:serviceaccount:k8squest:pod-reader`
+
+* documentation
+
+  `k explain pod.spec.tolerations`
   
