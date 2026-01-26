@@ -24,9 +24,13 @@
 - [ ] [Reddit how k8s works easy explaination video](https://www.reddit.com/r/kubernetes/comments/x1ppc4/k8s_irl/)
 
 ## Cheatsheets
-- [ ] [Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+- [x] [Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
 - [ ] [Reddit cheatsheet](https://github.com/SergeyFM/docs/blob/main/kubernetes_commands_cheat_sheet_final.txt)
 - [ ] [Github cheatsheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
+
+# Before certfication checklist
+* [Use Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+
 
 ### My cheatsheet
 * use expose
