@@ -1,21 +1,21 @@
 # Links
 ## Courses
-* [Pluralsight CKAD - certification](https://app.pluralsight.com/explore/certifications/topics/kubernetes?examPrepId=6ae9cedf-075b-4314-b01b-ca1e023ee791)
-* [Application Design and Build for CKAD](https://app.pluralsight.com/library/courses/application-design-build-ckad-cert/table-of-contents)
-* [Certified Kubernetes Application Developer Application Deployment](https://app.pluralsight.com/library/courses/ckad-deploying-applications-cert/table-of-contents) - [code](https://github.com/DanWahlin/ckad/tree/main/2%20Application%20Deployment)
+* [ ] [Pluralsight CKAD - certification](https://app.pluralsight.com/explore/certifications/topics/kubernetes?examPrepId=6ae9cedf-075b-4314-b01b-ca1e023ee791)
+* [ ] [Application Design and Build for CKAD](https://app.pluralsight.com/library/courses/application-design-build-ckad-cert/table-of-contents)
+* [ ] [Certified Kubernetes Application Developer Application Deployment](https://app.pluralsight.com/library/courses/ckad-deploying-applications-cert/table-of-contents) - [code](https://github.com/DanWahlin/ckad/tree/main/2%20Application%20Deployment)
 
 ## Games
-* [k8squest](https://github.com/Aryan4266/k8squest)
+* [ ] [k8squest](https://github.com/Aryan4266/k8squest)
 
 ## Braindumps
-* https://youtu.be/SFXdXwTvruc?si=d3JKNP50Hh-n1Qq
+* [ ] https://youtu.be/SFXdXwTvruc?si=d3JKNP50Hh-n1Qq
 
 ## Other
-* [Reddit how k8s works easy explaination video](https://www.reddit.com/r/kubernetes/comments/x1ppc4/k8s_irl/)
+* [ ] [Reddit how k8s works easy explaination video](https://www.reddit.com/r/kubernetes/comments/x1ppc4/k8s_irl/)
 
 ## Cheatsheets
-* [Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
-* [Reddit cheatsheet](https://github.com/SergeyFM/docs/blob/main/kubernetes_commands_cheat_sheet_final.txt)
+* [ ] [Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+* [ ] [Reddit cheatsheet](https://github.com/SergeyFM/docs/blob/main/kubernetes_commands_cheat_sheet_final.txt)
 
 ### My cheatsheet
 * use expose
