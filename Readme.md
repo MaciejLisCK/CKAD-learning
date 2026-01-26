@@ -1,21 +1,31 @@
 # Links
 ## Courses
-* [ ] [Pluralsight CKAD - certification](https://app.pluralsight.com/explore/certifications/topics/kubernetes?examPrepId=6ae9cedf-075b-4314-b01b-ca1e023ee791)
-* [ ] [Application Design and Build for CKAD](https://app.pluralsight.com/library/courses/application-design-build-ckad-cert/table-of-contents)
-* [ ] [Certified Kubernetes Application Developer Application Deployment](https://app.pluralsight.com/library/courses/ckad-deploying-applications-cert/table-of-contents) - [code](https://github.com/DanWahlin/ckad/tree/main/2%20Application%20Deployment)
+- [x] [Certified Kubernetes Application Developer Application Deployment](https://app.pluralsight.com/library/courses/ckad-deploying-applications-cert/table-of-contents) - [code](https://github.com/DanWahlin/ckad/tree/main/2%20Application%20Deployment)
+
+### [Pluralsight CKAD - certification](https://app.pluralsight.com/explore/certifications/topics/kubernetes?examPrepId=6ae9cedf-075b-4314-b01b-ca1e023ee791)
+- [x] [Application Design and Build for CKAD](https://app.pluralsight.com/library/courses/application-design-build-ckad-cert/table-of-contents)
+- [x] [Certified Kubernetes Application Developer: Application Deployment](https://app.pluralsight.com/ilx/video-courses/application-design-build-ckad-cert/course-overview)
+- [x] [Application Observability and Maintenance for CKAD](https://app.pluralsight.com/ilx/video-courses/application-observability-maintenance-ckad-cert/course-overview)
+- [ ] [Application Environment, Configuration, and Security for CKAD](https://app.pluralsight.com/ilx/video-courses/application-environment-configuration-security-ckad-cert/course-overview)
+- [ ] [Certified Kubernetes Application Developer: Services and Networking](https://app.pluralsight.com/ilx/video-courses/ckad-services-networking-cert/course-overview)
+- [ ] [Workloads Deep Dive for CKAD](https://app.pluralsight.com/hands-on/labs/c040d308-a15a-43b1-9ab0-ec579541f032)
+- [ ] [Services, Networking & Probes for CKAD](https://app.pluralsight.com/hands-on/labs/2d0764e0-681b-439a-b755-dbee73d1458b)
+- [ ] [Config, Secrets & Security for CKAD](https://app.pluralsight.com/hands-on/labs/1f2efa13-e839-40a6-bc6d-5bf35c0fef8a)
+- [ ] [Volumes, Multi-Containers & Logging for CKAD](https://app.pluralsight.com/hands-on/labs/33fdfcea-c7db-45a2-80a6-4a2849132afd)
+
 
 ## Games
-* [ ] [k8squest](https://github.com/Aryan4266/k8squest)
+- [ ] [k8squest](https://github.com/Aryan4266/k8squest)
 
 ## Braindumps
-* [ ] https://youtu.be/SFXdXwTvruc?si=d3JKNP50Hh-n1Qq
+- [ ] https://youtu.be/SFXdXwTvruc?si=d3JKNP50Hh-n1Qq
 
 ## Other
-* [ ] [Reddit how k8s works easy explaination video](https://www.reddit.com/r/kubernetes/comments/x1ppc4/k8s_irl/)
+- [ ] [Reddit how k8s works easy explaination video](https://www.reddit.com/r/kubernetes/comments/x1ppc4/k8s_irl/)
 
 ## Cheatsheets
-* [ ] [Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
-* [ ] [Reddit cheatsheet](https://github.com/SergeyFM/docs/blob/main/kubernetes_commands_cheat_sheet_final.txt)
+- [ ] [Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+- [ ] [Reddit cheatsheet](https://github.com/SergeyFM/docs/blob/main/kubernetes_commands_cheat_sheet_final.txt)
 
 ### My cheatsheet
 * use expose
