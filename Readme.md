@@ -1,20 +1,23 @@
 # Links
+## Courses
 * [Pluralsight CKAD - certification](https://app.pluralsight.com/explore/certifications/topics/kubernetes?examPrepId=6ae9cedf-075b-4314-b01b-ca1e023ee791)
-* [Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
-* [Reddit cheatsheet](https://github.com/SergeyFM/docs/blob/main/kubernetes_commands_cheat_sheet_final.txt)
-* [Reddit how k8s works easy explaination video](https://www.reddit.com/r/kubernetes/comments/x1ppc4/k8s_irl/)
-
-### Courses
 * [Application Design and Build for CKAD](https://app.pluralsight.com/library/courses/application-design-build-ckad-cert/table-of-contents)
 * [Certified Kubernetes Application Developer Application Deployment](https://app.pluralsight.com/library/courses/ckad-deploying-applications-cert/table-of-contents) - [code](https://github.com/DanWahlin/ckad/tree/main/2%20Application%20Deployment)
 
-## Kubernetes game
-https://github.com/Aryan4266/k8squest
+## Games
+* [k8squest](https://github.com/Aryan4266/k8squest)
 
-## Exam braindump
+## Braindumps
 * https://youtu.be/SFXdXwTvruc?si=d3JKNP50Hh-n1Qq
 
-# My notes
+## Other
+* [Reddit how k8s works easy explaination video](https://www.reddit.com/r/kubernetes/comments/x1ppc4/k8s_irl/)
+
+## Cheatsheets
+* [Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+* [Reddit cheatsheet](https://github.com/SergeyFM/docs/blob/main/kubernetes_commands_cheat_sheet_final.txt)
+
+### My cheatsheet
 * use expose
 
   `k expose deploy nginx-deploy --port=9000 --target-port=80 --type=NodePort --name=nginx-svc --dry-run=client -o yaml > svc.yaml`
