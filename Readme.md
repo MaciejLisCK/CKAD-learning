@@ -30,6 +30,7 @@
 
 # Before certfication checklist
 * [Use Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+* Rewatch braindumps
 
 
 ### My cheatsheet
