@@ -18,7 +18,7 @@
 - [x] [k8squest](https://github.com/Aryan4266/k8squest)
 
 ## Braindumps
-- [ ] https://youtu.be/SFXdXwTvruc?si=d3JKNP50Hh-n1Qq
+- [ ] [Mischa van den Burg](https://youtu.be/SFXdXwTvruc?si=d3JKNP50Hh-n1Qq)
 
 ## Other
 - [ ] [Reddit how k8s works easy explaination video](https://www.reddit.com/r/kubernetes/comments/x1ppc4/k8s_irl/)
