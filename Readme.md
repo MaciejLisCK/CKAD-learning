@@ -15,7 +15,7 @@
 
 
 ## Games
-- [ ] [k8squest](https://github.com/Aryan4266/k8squest)
+- [x] [k8squest](https://github.com/Aryan4266/k8squest)
 
 ## Braindumps
 - [ ] https://youtu.be/SFXdXwTvruc?si=d3JKNP50Hh-n1Qq
