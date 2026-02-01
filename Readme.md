@@ -29,8 +29,8 @@
 - [ ] [Github cheatsheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
 
 # Before certfication checklist
-* [Use Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
-* Rewatch braindumps
+- [ ] Rewatch braindump: [Mischa van den Burg](https://youtu.be/SFXdXwTvruc?si=d3JKNP50Hh-n1Qq)
+* [ ] Remember you can use: [Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
 
 
 ### My cheatsheet
