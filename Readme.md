@@ -31,7 +31,7 @@
 # Before certfication checklist
 - [ ] Rewatch braindump: [Mischa van den Burg](https://youtu.be/SFXdXwTvruc?si=d3JKNP50Hh-n1Qq)
 * [ ] Remember you can use: [Kubernetes.io cheatsheet](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
-
+* [ ] Go through my cheatsheet
 
 ### My cheatsheet
 * use expose
